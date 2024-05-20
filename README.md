@@ -5,7 +5,7 @@ To the best of our knowledge, this dataset represents the most comprehensive col
 
 The dataset is freely available for academic research and personal non-commercial use.
 When you use the index and its associated data, please acknowledge the following paper as the data source:
-- Campiglio, E., Deyris, J., Romelli, D., Scalisi, G., 2024. [Warning words in a warming world: Central bank communication and climate change](). LSE Grantham Institute WP.
+- Campiglio, E., Deyris, J., Romelli, D., Scalisi, G., 2024. [Warning words in a warming world: Central bank communication and climate change](). 
 
 
 The repository consists of the following components:
